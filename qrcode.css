@@ -1,8 +1,5 @@
 
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 50px;
   }
  
@@ -11,6 +8,7 @@ body {
     height: 500px; 
     border: 1px solid #ccc;
     border-radius: 8px;
+    display: flex; 
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -32,10 +30,4 @@ body {
     color: #555;
   }
   
-  .card_img{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 10px;
-}
-
+  
